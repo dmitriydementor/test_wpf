@@ -1,0 +1,64 @@
+﻿<Page x:Class="LearnIT.Views.UserSelect"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d"      
+      xmlns:fa="http://schemas.fontawesome.io/icons/"
+        Title="LearnIT"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}" FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        WindowHeight="600" WindowWidth="800"
+      MinHeight="550" MinWidth="700"
+      KeepAlive="True"
+      ShowsNavigationUI="False"     
+      >   
+
+    <Grid>       
+        <Grid Name="backgroundGrid">
+
+            <Grid.Background>
+                <LinearGradientBrush>
+                    <GradientStop Offset="0.00" Color="#FFC6DDF1"></GradientStop>
+                    <GradientStop Offset="0.50" Color="#FFBDDFEA"></GradientStop>
+                    <GradientStop Offset="1.00" Color="#FF8E8EE8"></GradientStop>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <Grid Name="grid2" Margin="100 10" MaxWidth="500">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+
+                </Grid.RowDefinitions>
+
+
+
+                <TextBlock FontSize="80" TextAlignment="Center" VerticalAlignment="Center" xml:space="preserve"><fa:FontAwesome Icon="GraduationCap" FontSize="80"/> Learn IT!</TextBlock>
+                <ListBox Grid.Row="1" FontSize="24" Name="usersListBox" VirtualizingStackPanel.ScrollUnit="Pixel" ScrollViewer.IsDeferredScrollingEnabled="True">
+                    <ListBoxItem xml:space="preserve">
+                    <StackPanel Orientation="Horizontal">
+                        <fa:FontAwesome Icon="PlusCircle" FontSize="24"/>
+                        <TextBlock xml:space="preserve"> New user</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                </ListBox>
+
+                <Button Name="buttonStart"                    
+                    ToolTip="Start learning" IsDefault="True"
+                    MinWidth="200" MinHeight="60" MaxWidth="300" MaxHeight="90"
+                    Grid.Row="2" FontSize="24"
+                    Click="Button_Click">
+                    Start
+                </Button>
+
+
+
+
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Page>
+    

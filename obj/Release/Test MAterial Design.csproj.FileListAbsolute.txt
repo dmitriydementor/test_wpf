@@ -1,0 +1,119 @@
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.exe.config
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.exe
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.pdb
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\bin\Release\FontAwesome.WPF.dll
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\bin\Release\MaterialDesignColors.dll
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\bin\Release\FontAwesome.WPF.xml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\App.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\App.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design_MarkupCompile.cache
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.g.resources
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test_MAterial_Design.Properties.Resources.resources
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.csproj.GenerateResource.Cache
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.exe
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.pdb
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\MainWindow.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\MainWindow.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserSelect.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserSelect.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserDictionaries.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserDictionaries.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddDictionaryForm.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddUserForm.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddDictionaryForm.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddUserForm.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.csprojResolveAssemblyReference.cache
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\QuizPage.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\QuizPage.g.cs
+G:\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.exe.config
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.exe
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.pdb
+G:\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.exe
+G:\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.pdb
+G:\Test MAterial Design\Test MAterial Design\bin\Release\FontAwesome.WPF.dll
+G:\Test MAterial Design\Test MAterial Design\bin\Release\MaterialDesignColors.dll
+G:\Test MAterial Design\Test MAterial Design\bin\Release\MaterialDesignThemes.Wpf.dll
+G:\Test MAterial Design\Test MAterial Design\bin\Release\FontAwesome.WPF.xml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.csprojResolveAssemblyReference.cache
+G:\Test MAterial Design\Test MAterial Design\obj\Release\MainWindow.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddDictionaryForm.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddUserForm.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\DeleteDictionaryConfirmation.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\EditDictionaryPage.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\EditWordCard.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\QuizPage.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\Results.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserDictionaries.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserSelect.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\App.baml
+G:\Test MAterial Design\Test MAterial Design\obj\Release\MainWindow.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddDictionaryForm.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddUserForm.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\DeleteDictionaryConfirmation.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\EditDictionaryPage.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\EditWordCard.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\QuizPage.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\Results.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserDictionaries.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserSelect.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\App.g.cs
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design_MarkupCompile.cache
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.g.resources
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Test_MAterial_Design.Properties.Resources.resources
+G:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.csproj.GenerateResource.Cache
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\EditDictionaryPage.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\EditWordCard.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\EditDictionaryPage.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\EditWordCard.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\DeleteConfirmation.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\DeleteConfirmation.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\TypeWordsQuizPage.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\TypeWordsQuizPage.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\AboutWindow.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\AboutWindow.g.cs
+F:\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.exe.config
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.exe
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.pdb
+F:\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.exe
+F:\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.pdb
+F:\Test MAterial Design\Test MAterial Design\bin\Release\FontAwesome.WPF.dll
+F:\Test MAterial Design\Test MAterial Design\bin\Release\MaterialDesignColors.dll
+F:\Test MAterial Design\Test MAterial Design\bin\Release\MaterialDesignThemes.Wpf.dll
+F:\Test MAterial Design\Test MAterial Design\bin\Release\FontAwesome.WPF.xml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.csprojResolveAssemblyReference.cache
+F:\Test MAterial Design\Test MAterial Design\obj\Release\MainWindow.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\AboutWindow.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddDictionaryForm.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddUserForm.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\DeleteConfirmation.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\EditDictionaryPage.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\EditWordCard.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\QuizPage.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\TypeWordsQuizPage.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserDictionaries.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserSelect.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\App.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\MainWindow.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\AboutWindow.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddDictionaryForm.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\AddUserForm.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\DeleteConfirmation.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\EditDictionaryPage.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Dialogs\EditWordCard.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\QuizPage.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\QuizPages\TypeWordsQuizPage.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserDictionaries.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\UserSelect.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\App.g.cs
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design_MarkupCompile.cache
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.g.resources
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Test_MAterial_Design.Properties.Resources.resources
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.csproj.GenerateResource.Cache
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Help.baml
+F:\Test MAterial Design\Test MAterial Design\obj\Release\Views\Help.g.cs
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Help.baml
+E:\YandexDisc\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Views\Help.g.cs
+D:\YandexDisk\Projects\Test MAterial Design\Test MAterial Design\bin\Release\Test MAterial Design.exe.config
+D:\YandexDisk\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.exe
+D:\YandexDisk\Projects\Test MAterial Design\Test MAterial Design\obj\Release\Test MAterial Design.pdb

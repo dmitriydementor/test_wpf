@@ -1,0 +1,46 @@
+﻿<Window x:Class="LearnIT.Views.Dialogs.EditWordCard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit word card" MinHeight="275" MinWidth="300"
+        Width="500" Height="550"
+        MaxHeight="600" MaxWidth="550"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}" FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        WindowStartupLocation="CenterOwner">
+    <Grid Name="editWordCardGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Margin="20" Text="Word or phrase:" FontSize="18" Grid.Row="0"></TextBlock>
+        <TextBox Grid.Row="1" FontSize="18" Margin="20 0" Text="{Binding Path=Word, Mode=TwoWay}"></TextBox>
+        <TextBlock Margin="20" Text="Translation:" FontSize="18" Grid.Row="2"></TextBlock>
+        <TextBox Grid.Row="3" FontSize="18" Margin="20 0" Text="{Binding Path=Translation, Mode=TwoWay}"></TextBox>
+        <TextBlock Margin="20" Text="Example:" FontSize="18" Grid.Row="4"></TextBlock>
+        <TextBox Grid.Row="5" FontSize="18" Margin="20 0" Text="{Binding Path=Example.ExampleWithWord, Mode=TwoWay}"></TextBox>
+        <TextBlock Margin="20" Text="Translation of example:" FontSize="18" Grid.Row="6"></TextBlock>
+        <TextBox Grid.Row="7" FontSize="18" Margin="20 0" Text="{Binding Path=Example.TranslatedExample, Mode=TwoWay}"></TextBox>
+
+        <Grid Margin="10 20" Grid.Row="8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" MinWidth="150" MinHeight="60" MaxWidth="300" MaxHeight="90" Margin="10"
+                    Click="SaveWordCardBtn_Click" FontSize="24" IsDefault="True">Save</Button>
+
+            <Button Grid.Column="1" MinWidth="150" MinHeight="60" MaxWidth="300" MaxHeight="90" Margin="10"
+                    Click="CancelEditingWordCardBtn_Click" FontSize="24">Cancel</Button>
+        </Grid>
+
+    </Grid>
+</Window>
